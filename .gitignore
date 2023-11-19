@@ -1,0 +1,66 @@
+# NetBeans
+/nbproject/private/
+/build/
+/nbbuild/
+/dist/
+/nbdist/
+/nbactions.xml
+/nb-configuration.xml
+
+# IntelliJ IDEA
+/.idea/
+
+# Eclipse
+/.classpath
+/.project
+/.settings/
+
+# Compiled class file
+*.class
+
+# Compiled Java binary
+*.jar
+
+# Compiled Javadoc HTML
+/target/
+
+# Logs
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.war
+*.ear
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# NetBeans project files #
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+/build/
+
+# Gradle
+/build/
+.gradle/
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Custom entries
+/data/
+/literature/
+*.csv
